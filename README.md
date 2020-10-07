@@ -1,2 +1,1 @@
-# Supply-Mission
-Droping Supplies And Medical Kits In The Middle Of A Zombie Apocalypse.
+# SupplyMission
